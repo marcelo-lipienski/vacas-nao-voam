@@ -1,6 +1,6 @@
-# Vacas não voam - Melhorias de usablidade para o Sagres
+# Vacas não voam
 
-## Melhorias
+## Melhorias de usabilidade
 
 - Adicionado ao menu principal um link direto para a página de notas e faltas
 - Na página de notas e faltas, as disciplinas abrem automagicamente, eliminando a necessidade de abrir indivualmente cada nota e falta de cada disciplina.
