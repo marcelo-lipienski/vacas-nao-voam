@@ -25,7 +25,7 @@ Até o momento, a instalação deve ser feita manualmente, quando for publicado 
 
 ## Problemas conhecidos
 
-- A extensão não funciona com o **Modo do desenvolvedor** desativado. Depois de instalar, você pode desabilitar e habilitar quantas vezes quiser. *É recomendado desativar o modo desenvolvedor sempre que não estiver utilizando a extensão.*
+- A extensão não funciona com o **Modo do desenvolvedor** desativado.
 - Até o momento, é impossível instalar a extensão apenas clicando no arquivo após o download, o processo de arrastar da pasta para a página **chrome://extensions** é obrigatório e manual.
 
 ## Informações adicionais
